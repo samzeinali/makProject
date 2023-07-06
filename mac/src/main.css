@@ -1,0 +1,33 @@
+/* @tailwind base; */
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+    .header__icon a{
+        @apply no-underline my-2 text-zinc-900 text-2xl
+    }
+    .footer__text {
+        @apply text-justify my-2 text-white text-lg font-semibold
+    }
+    .footer__icons a{
+        @apply no-underline my-2 text-white text-lg font-semibold text-justify
+    }
+    .footer__icons {
+        @apply my-4 mx-6
+    }
+    .home__products {
+        @apply w-[30%] p-5 flex flex-col items-center bg-gray-50 border-zinc-300 border-solid border-[1px] hover:shadow-lg rounded-lg overflow-hidden
+    }
+    .home__products-image {
+        @apply w-[90%]
+    }
+    .home__products-button {
+        @apply w-[70%] bg-red-600 flex justify-center items-center p-2 py-4 mb-4 mt-14 cursor-pointer
+    }
+    .home__products-button p {
+        @apply text-white font-semibold text-lg
+    }
+    .home__products-button span {
+        @apply bg-white text-zinc-950 rounded-xl w-[50px] flex justify-center items-start h-[25px] mr-2 text-sm font-bold
+    }
+}
