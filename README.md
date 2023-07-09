@@ -11,8 +11,7 @@
 
 1. Download or Clone Project
 2. Unzip files
-3. Open editor
-4. Open terminal (**ctlr + `**)
+3. Open terminal (**ctlr + `**)
 
 ---
 In the first step to use the project, enter the command `cd ./mac` in the terminal
