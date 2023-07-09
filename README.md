@@ -2,7 +2,7 @@
 
 ## traning react - Project : react-router-dom
 
-## Aouther : Sam zeianli
+## Developed by : Sam zeianli
 
 ## my email : saamzeinali@gmail.com
 
