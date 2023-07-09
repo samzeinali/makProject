@@ -22,12 +22,41 @@
         @apply w-[90%]
     }
     .home__products-button {
-        @apply w-[70%] bg-red-600 flex justify-center items-center p-2 py-4 mb-4 mt-14 cursor-pointer
+        @apply w-[70%] bg-red-600 flex justify-center items-center p-2 py-4 mb-4 mt-14 cursor-pointer no-underline
     }
     .home__products-button p {
         @apply text-white font-semibold text-lg
     }
     .home__products-button span {
         @apply bg-white text-zinc-950 rounded-xl w-[50px] flex justify-center items-start h-[25px] mr-2 text-sm font-bold
+    }
+    .product___list-item {
+        @apply flex my-3
+    }
+    .product___list-item p {
+        @apply text-lg font-semibold mx-2
+    }
+    .product___list-item span{
+        @apply text-lg text-zinc-700
+    }
+    .about__img {
+        background-image: url(/mac.jpg);
+        background-size: cover;
+        background-position: 10%;
+    }
+    .contact__input {
+        width: 70%;
+        padding: 10px 20px;
+        border: 1px solid rgb(27, 26, 26);
+        border-radius: 10px;
+        margin: 5px auto;
+        font-size: 1rem;
+        color: #333;
+        transition: 0.5s;
+    }
+    .contact__input:focus {
+        color: #222;
+        font-size: 1.1rem;
+        outline: none;
     }
 }
