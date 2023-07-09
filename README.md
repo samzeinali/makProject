@@ -29,7 +29,7 @@ Note that the product information is generated through the Jason server library.
 
 But considering that in this project the APIs are set on port 8080, it is necessary to enter **`--port 8080`** the following command to run the Jason server and start the APIs.
 
-(https://s8.uupload.ir/files/3_qipf.png)
+!(https://s8.uupload.ir/files/3_qipf.png)
 
 ok! you can now see mak project in `http://localhost:5173/` ...
 
