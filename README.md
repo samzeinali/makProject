@@ -1,6 +1,6 @@
 # MAK Project
 
-## traning react - Project : react-router-dom
+## React Practice - Project : react-router-dom
 
 ## Developed by : Sam zeianli
 
