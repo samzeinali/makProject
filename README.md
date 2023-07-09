@@ -1,13 +1,13 @@
 # makProject
 
-##traning react - Project : react-router-dom
+## traning react - Project : react-router-dom
 
-##Aouther : Sam zeianli
+## Aouther : Sam zeianli
 
-##my email : saamzeinali@gmail.com
+## my email : saamzeinali@gmail.com
 
 ---
-###Start Project In Development :
+### Start Project In Development :
 
 1. Download or Clone Project
 2. Unzip files
